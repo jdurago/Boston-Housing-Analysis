@@ -5,3 +5,12 @@ Implemented decision tree learning to Boston housing data to predict a house's p
 ## Getting Started
 
 The Boston Housing data can be found in the housing.csv file. boston_housing.ipynb contains code used to analyze the data and the final report is contained in report.html. The visuals.py file contains helper functions for creating charts.
+
+### Prerequisites
+
+Below are the required python packages:
+
+* Jupyter notebook
+* Numpy
+* Pandas
+* Sklearn
